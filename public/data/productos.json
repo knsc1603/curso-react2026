@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Clase de Salsa",
+        "description": "Aprendé los pasos básicos y giros de la salsa en un ambiente divertido.",
+        "price": 4500,
+        "image": "/img/salsa.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Clase de Bachata",
+        "description": "Clase ideal para principiantes, enfocada en ritmo y conexión.",
+        "price": 4200,
+        "image": "/img/bachata.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Clase de Hip Hop",
+        "description": "Movimientos urbanos con coreografías modernas.",
+        "price": 5000,
+        "image": "/img/hiphop.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Clase de Ballet",
+        "description": "Técnica clásica para mejorar postura, equilibrio y flexibilidad.",
+        "price": 4800,
+        "image": "/img/ballet.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Clase de Danza Contemporánea",
+        "description": "Exploración del movimiento y expresión corporal.",
+        "price": 5200,
+        "image": "/img/contemporaneo.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Clase de Reggaetón",
+        "description": "Coreografías dinámicas con ritmos latinos actuales.",
+        "price": 4700,
+        "image": "/img/reggaeton.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Clase de Tango",
+        "description": "Aprendé la elegancia y técnica del tango argentino.",
+        "price": 5500,
+        "image": "/img/tango.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Clase de Jazz Dance",
+        "description": "Estilo energético con técnica y expresión escénica.",
+        "price": 4900,
+        "image": "/img/jazz.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Clase de Zumba",
+        "description": "Entrenamiento divertido combinando baile y fitness.",
+        "price": 4000,
+        "image": "/img/zumba.png"
+    },
+    {
+        "id": 10,
+        "name": "Clase de Breakdance",
+        "description": "Movimientos acrobáticos y fundamentos del breaking.",
+        "price": 5300,
+        "image": "/img/breakdance.jpg"
+    }
+]
